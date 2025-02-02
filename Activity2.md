@@ -28,8 +28,7 @@ Add Billing phone to customer profile.
 
 ![image](https://github.com/user-attachments/assets/2cbe1c64-b979-4de0-a6dc-9dff655d57d8)
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/db38c29d-d1dd-4b47-a7a1-eab8ee23ba6b)
 
 Add Shipping phone to customer profile.
 
