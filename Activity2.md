@@ -21,14 +21,12 @@ Add email address to customer profile.
 
 ![image](https://github.com/user-attachments/assets/a75d4ba2-8be7-462a-93ff-cb23e52a1dd1)
 
-
-
-
 Add Billing phone to customer profile.
 
-![image](https://github.com/user-attachments/assets/2cbe1c64-b979-4de0-a6dc-9dff655d57d8)
+![image](https://github.com/user-attachments/assets/0bf449db-6a7a-4177-92f7-4a045b4dca66)
 
-![image](https://github.com/user-attachments/assets/db38c29d-d1dd-4b47-a7a1-eab8ee23ba6b)
+![image](https://github.com/user-attachments/assets/851e1ec2-5545-4dd8-a0e4-5f0096c04778)
+
 
 Add Shipping phone to customer profile.
 
@@ -38,6 +36,9 @@ Add Shipping Address to customer profile.
 
 Add Billing Address to customer profile.
 
+![image](https://github.com/user-attachments/assets/2cbe1c64-b979-4de0-a6dc-9dff655d57d8)
+
+![image](https://github.com/user-attachments/assets/db38c29d-d1dd-4b47-a7a1-eab8ee23ba6b)
 
 Make billing and shipping address same.
 
